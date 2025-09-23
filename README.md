@@ -4,6 +4,12 @@
 This project analyzes **retail sales data** from **Jan 2023 – May 2024** using Excel and Power BI.  
 The goal is to demonstrate a complete data analytics workflow: **data cleaning → exploration → visualization → insights.**
 
+## 🛠️ Steps performed
+1. Data cleaning & preprocessing (Excel): dedupe, fix totals, create Age Group & Month-Year.
+2. Exploratory Data Analysis (Excel): pivot tables and summary KPIs.
+3. Visualization (Power BI): line charts, bar charts, top N customers, KPI cards, narrative report.
+4. Exported dashboard screenshot and saved Power BI file.
+
 ## 🛠️ Steps Followed
 1. **Data Cleaning in Excel**
    - Converted raw data into an Excel Table.
